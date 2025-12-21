@@ -96,7 +96,7 @@ I’m **Dilshan Nuwantha Wickramasingha**, an engineering undergraduate passiona
 ## 📌 Projects
 - 🧠 [LightGlue Implementation](https://github.com/Dilshan-Nuwantha/LightGlue)
 - ⚡ [Transformer Management System](https://github.com/SahanDissanayaka/Transformer-Management-System)
-- 🎓 [Poverty Hack – Education Platform (https://github.com/ywchanna2001/Poverty_Hack_Frontend/tree/develop)
+- 🎓 [Poverty Hack – Education Platform](https://github.com/ywchanna2001/Poverty_Hack_Frontend/tree/develop)
 - 🦾 [Robotic Manipulator](https://github.com/Dilshan-Nuwantha/4-DOF_Robot_Arm_Manipulation)
 - ✋ [Hand Motion Prior for Pose and Shape Estimation from Video](https://github.com/Dilshan-Nuwantha/HMP/tree/main)
 - 🐭 [Micro Mouse for Robofest Competition](https://github.com/SahanDissanayaka/Micro-Mouse-Design)
