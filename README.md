@@ -92,20 +92,36 @@ I’m **Dilshan Nuwantha Wickramasingha**, an engineering undergraduate passiona
 </p>
 
 ---
+
+## 📌 Projects
+- 🧠 [LightGlue Implementation](https://github.com/Dilshan-Nuwantha/LightGlue)
+- ⚡ [Transformer Management System](https://github.com/SahanDissanayaka/Transformer-Management-System)
+- 🎓 [Poverty Hack – Education Platform (https://github.com/ywchanna2001/Poverty_Hack_Frontend/tree/develop)
+- 🦾 [Robotic Manipulator](https://github.com/Dilshan-Nuwantha/4-DOF_Robot_Arm_Manipulation)
+- ✋ [Hand Motion Prior for Pose and Shape Estimation from Video](https://github.com/Dilshan-Nuwantha/HMP/tree/main)
+- 🐭 [Micro Mouse for Robofest Competition](https://github.com/SahanDissanayaka/Micro-Mouse-Design)
+- 🌍 [Air Water Pollution Measuring Device](https://github.com/Pasindu-Nimsara-2002/Air-Water-Quality-Measuring-Device)
+- 🏆 [Robot of Sri Lankan Robotic Challenge](https://github.com/SahanDissanayaka/Robot-Design-for-SLRC)
+- 🤖 [Robotic Project – EN2553](https://github.com/SahanDissanayaka/Robot-Design-for-EN2553-Module-Competition)
+- ⚖️ [Analog Weight Scale Project](https://github.com/SahanDissanayaka/Analog-Weighing-Scale-Using-Load-Cell)
+- 💡 [Automatic Room Light Controller](https://github.com/SahanDissanayaka/Power-Saving-Automatic-Room-Light-Controller/tree/main)
+
+---
+
 ## 🌱 Areas of Interest
-- 🤖 **Robotics & Autonomous Systems** – Building intelligent machines that move and think.  
-- 🧠 **Artificial Intelligence & Machine Learning** – Creating smart algorithms to solve complex problems.  
-- 📸 **Computer Vision Applications** – Developing systems that see and interpret the world.  
 - 💻 **Web & Backend Development** – Designing robust and scalable applications.  
+- 🧠 **Artificial Intelligence & Machine Learning** – Creating smart algorithms to solve complex problems.
+- 🤖 **Robotics & Autonomous Systems** – Building intelligent machines that move and think.
+- 📸 **Computer Vision Applications** – Developing systems that see and interpret the world.  
 - ⚡ **Electronics & Embedded Systems** – Bringing hardware projects to life.  
 - 🌟 **Open Source Collaboration** – Contributing to community-driven projects and innovation.  
 
 ---
 
 ## 🤝 Collaboration
+- ✨ **Innovative Software & Hardware Solutions** – Solving problems with creative, practical approaches.  
 - 🤝 **Open Source ML & AI Projects** – Happy to contribute to machine learning and AI communities.  
 - 🦾 **Robotics Competitions & Research** – Participating in hands-on robotics challenges.  
-- ✨ **Innovative Software & Hardware Solutions** – Solving problems with creative, practical approaches.  
 
 ---
 
@@ -118,5 +134,5 @@ I’m **Dilshan Nuwantha Wickramasingha**, an engineering undergraduate passiona
 ## ⚡ Fun Fact
 - 🧩 I enjoy **puzzle games** in my free time, especially ones that challenge logic and problem-solving skills.  
 
-
 ---
+
