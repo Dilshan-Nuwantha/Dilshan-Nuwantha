@@ -1,47 +1,63 @@
-# Hi there! 👋
-I'm **Dilshan Nuwantha Wickramasingha**, a passionate learner and enthusiast in the fields of robotics, machine learning and computer vision.
+# Hi there 👋
+I’m **Dilshan Nuwantha Wickramasingha**, an engineering undergraduate with a strong interest in web develoopment, robotics, machine learning, and computer vision. I enjoy building systems that combine software, hardware, and intelligent decision making, and I like working on projects that solve practical problems.
 
-## Skills
-- Machine Learning
-- Robotics
-- Computer Vision
-- C++
-- C
-- Matlab
-- Python
-- Arduino
-- TensorFlow
-- Electronics
-- Open Source
-- Git
-- Altium Designer
-- SolidWorks
+## Technical Skills
 
-## 👀 I’m interested in ...
-- 🦾 Robotics
-- 🤖 Artificial Intelligence
-- 📸 Computer Vision
-- 📊 Machine Learning
-- 🌐 Open Source Projects
-- ⚡ Electronics
+**Backend & Software Development**
+- Java  
+- Spring Boot  
+- Microservices Architecture  
+- MongoDB  
+- MySQL  
+- JDBC  
+- Unit Testing  
+- Software Development  
+- Jira  
 
-## 🌱 I’m currently learning ...
-- 🤖 Robotics
-- 🧠 Deep Learning Techniques
-- 🖼️ Image Processing
-- 🔍 TensorFlow and PyTorch
-- ⚡ Electronics
+**Web Technologies**
+- HTML  
+- CSS  
+- PHP  
 
-## 💞️ I’m looking to collaborate on ...
-- 🌐 Open source machine learning projects
-- 🤖 Robotics competitions and projects
-- 🌟 Innovative AI solutions
+**AI, ML & Computer Vision**
+- Python  
+- TensorFlow  
+- PyTorch  
+- Machine Learning  
+- Computer Vision  
 
-## 📫 How to reach me ...
-- 📧 [Email](mailto:nuwanthadilshan05@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dilshan-wickramasingha-2a6282317/)
+**Embedded Systems & Robotics**
+- C  
+- C++  
+- Arduino  
+- MATLAB  
 
-## ⚡ Fun fact: ...
-I love to play puzzle games in my free time.
+**Design & Tools**
+- Git  
+- SolidWorks  
+- Altium Designer  
+- Technical Documentation  
+- Testing  
 
-Feel free to reach out if you want to collaborate or just chat about technology and innovation!
+## Areas of Interest
+- Robotics and autonomous systems  
+- Artificial intelligence and machine learning  
+- Computer vision applications  
+- Web and backend development  
+- Electronics and embedded systems  
+- Open source collaboration  
+
+## Collaboration
+I am open to collaborating on:
+- Open source machine learning and AI projects  
+- Robotics competitions and research projects  
+- Innovative software or hardware solutions  
+
+## Contact
+- 📧 Email: nuwanthadilshan05@gmail.com  
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dilshan-wickramasingha-2a6282317/)  
+
+## Fun Fact
+I enjoy playing puzzle games in my free time, especially ones that involve logic and problem solving.
+
+Feel free to reach out if you would like to collaborate or discuss technology and engineering ideas.
