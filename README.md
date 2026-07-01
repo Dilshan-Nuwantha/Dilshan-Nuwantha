@@ -1,113 +1,174 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F0FF&size=32&center=true&vCenter=true&width=800&height=60&lines=⚡+DILSHAN+NUWANTHA+WICKRAMASINGHA+⚡;%F0%9F%9A%80+ELECTRONIC+%26+TELECOM+ENGINEER;%F0%9F%92%BB+FULL+STACK+DEVELOPER+%7C+AI+%7C+ROBOTICS" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-COLOMBO%2C%20LK-FF007F?style=for-the-badge&logo=maplibre&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/EDUCATION-UOM%20%E2%9A%A1-00F0FF?style=for-the-badge&logo=education&logoColor=white&labelColor=111111" />
-  <img src="https://img.shields.io/badge/INTERNSHIP-AXIATA%20ADL-39FF14?style=for-the-badge&logo=rocket&logoColor=white&labelColor=111111" />
+# Hi there 👋 I'm Dilshan Nuwantha Wickramasingha
+
+### Electronic & Telecommunication Engineering Undergraduate | University of Moratuwa
+
+### Software Engineer | Backend Developer | DevOps Engineer | Robotics Enthusiast | Machine Learning Explorer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Machine+Learning+Engineer;Robotics+Developer;Computer+Vision+Enthusiast;Always+Learning+Something+New"/>
+
+<p>
+
+<a href="mailto:nuwanthadilshan05@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dilshan-wickramasingha-2a6282317/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Dilshan-Nuwantha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
-<p align="center">
-  Hi there 👋 I’m an impact-driven <b>Electronic and Telecommunication Engineering Honors Undergraduate</b> from the University of Moratuwa. I specialize in bridging the gap between hardware architecture and scalable software, blending core enterprise backend development with robotics, machine learning, and computer vision.
+![](https://komarev.com/ghpvc/?username=Dilshan-Nuwantha&style=for-the-badge)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm an **Electronic and Telecommunication Engineering honors undergraduate** at the **University of Moratuwa** (CGPA: 3.55) passionate about building intelligent software and hardware solutions. I combine rigorous academic foundations in core telecommunications and software development with hands-on enterprise backend experience.
+
+I enjoy working across multiple engineering domains including:
+- 💻 Backend & Distributed Systems Architecture
+- ☁️ Microservices & Cloud Technologies
+- 🤖 Robotics & Autonomous Systems (ROS2)
+- 🧠 Machine Learning & Computer Vision
+- ⚡ Embedded Systems & Advanced Electronics
+
+I love combining software, hardware, and artificial intelligence to solve complex, real-world engineering challenges.
+
+---
+
+# 🚀 Projects
+
+## 🌐 Web Development & Enterprise Backend Systems
+
+* 📦 **Dialog Inventory Management System:** Scalable Java Spring Boot microservices integrated with RabbitMQ async processing, Redis caching, and TMF APIs.
+* 💥 **Dialog Ignite Revamp:** Telecom platform ecosystem upgrade focused on backend activity logging, custom server deployments, and REST API validation.
+* ⚡ **[Transformer Management System](https://github.com/SahanDissanayaka/Transformer-Management-System):** Full-stack inspection platform linking a Spring Boot backend with a Python YOLOv8 automated defect detection pipeline.
+* 🚍 **[Bus Tracking System](https://github.com/Dilshan-Nuwantha/bus-tracking-frontend):** Full-stack transit platform featuring real-time GPS tracking via Socket.IO streaming channels and Leaflet maps.
+* 🎓 **[PovertyHack Education Platform](https://github.com/ywchanna2001/Poverty_Hack_Frontend/tree/develop):** Gamified literacy application powered by FastAPI, MongoDB, and personalized Google Generative AI student guidance.
+* 📚 **[AI Study Assistant](https://github.com/Dilshan-Nuwantha/AI-Study-Assistant):** Intelligent learning assistant providing automated contextual searching, document summarization, and dynamically generated quizzes.
+
+---
+
+## 🤖 Robotics & Autonomous Systems
+
+* 🛞 **[Reconfigurable Indoor Mobile Robot Platform](https://www.linkedin.com/posts/dilshan-wickramasingha-2a6282317_excited-to-share-the-successful-completion-ugcPost-7470674635865362432-kaat/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBO3x4BO7w-EkZDYMXaMzCeaY9kAEUcPYo) (FYP):** Reconfigurable stair-climbing robot platform engineered with custom dual-mode mobility control loops built natively on ROS2.
+* 🦾 **[4-DOF Robotic Manipulator](https://github.com/Dilshan-Nuwantha/4-DOF_Robot_Arm_Manipulation):** Physical 4-Degree-of-Freedom robotic arm leveraging MATLAB inverse kinematics execution and Arduino motor control.
+* 🐭 **[Micromouse Maze-Solving Robot](https://github.com/SahanDissanayaka/Micro-Mouse-Design):** High-speed autonomous maze solver implementing the FloodFill pathfinding matrix and precision PID microcontroller control loops.
+* 🏆 **[Sri Lanka Robotics Challenge Robot](https://github.com/SahanDissanayaka/Robot-Design-for-SLRC):** Competition finalist robot built to dynamically perform complex multi-sensor line, shape, wall, and object manipulation routines.
+* 🤖 **[Robotics Competition Project (EN2553)](https://github.com/SahanDissanayaka/Robot-Design-for-EN2553-Module-Competition):** Multi-functional hardware platform capable of ramp navigation, obstacle evasion, color tracking, and maze traversal protocols.
+
+---
+
+## 🧠 Machine Learning & Computer Vision
+
+* 🔍 **[Deep Learning LightGlue Implementation](https://github.com/Dilshan-Nuwantha/LightGlue):** PyTorch feature matching pipeline analyzing neural keypoint correspondences and adaptive pruning strategies.
+* ✋ **[Hand Motion Prior for Pose and Shape Estimation](https://github.com/Dilshan-Nuwantha/HMP/tree/main):** Computer vision model resolving 3D hand shapes from video streams via AMASS dataset motion priors and latent optimization.
+
+---
+
+## ⚡ Electronics & Embedded Systems
+
+* 🌍 **[Air & Water Pollution Monitoring Device](https://github.com/Pasindu-Nimsara-2002/Air-Water-Quality-Measuring-Device):** Portable ecological station utilizing AVR programming to sample and analyze multisector chemical, gas, and temperature metrics.
+* ⚖ **[Analog Weight Scale Using Load Cell](https://github.com/SahanDissanayaka/Analog-Weighing-Scale-Using-Load-Cell):** Force-measurement platform utilizing custom analog signal conditioning circuits to capture data generated by structural load cells.
+* 💡 **[Automatic Room Light Controller](https://github.com/SahanDissanayaka/Power-Saving-Automatic-Room-Light-Controller/tree/main):** Occupancy-driven automated lighting loop designed around an Arduino processing unit to maximize environment power efficiency.
+
+---
+
+# 💻 Technologies & Skills
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,matlab" />
+</p>
+
+### Backend Development & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,maven" />
+</p>
+
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Machine Learning, AI & CV
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+</p>
+
+### Databases & Caching
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+### DevOps, Engineering & System Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,postman,jira" />
+<br>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Altium-A5915F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS_Lightsail-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 NEON TECH STACK
+# 📊 GitHub Analytics
 
-### 🔮 Backend & Cloud Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Lightsail-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dilshan-Nuwantha&theme=tokyonight&hide_border=true"/>
+</div>
 
-### 🌌 Frontend & Design
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+# 🏆 Achievements & Certifications
 
-### 🧠 Machine Learning & Intelligence
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=target&logoColor=black" />
-  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" />
-</p>
-
-### 🦾 Robotics & Hardware Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Altium_Designer-A52A2A?style=for-the-badge&logo=altium&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-00548B?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Message Brokers
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-</p>
+🏅 **Finalist** — Sri Lanka Robotics Challenge, UOM (2023)  
+🏅 **Finalist** — Makathon 1.0, UOK (2025)  
+🤖 **Visiting Instructor (Robotics)** — Department of ENTC, University of Moratuwa  
+💼 **Software Engineering Intern** — Axiata Digital Labs (Pvt) Ltd  
+🎓 **Stanford University / DeepLearning.AI Specializations:**
+* *Supervised Machine Learning: Regression and Classification*
+* *Advanced Learning Algorithms*
+* *Unsupervised Learning, Recommenders, Reinforcement Learning*
 
 ---
 
-## 🛠️ CLASSIFIED PROJECTS
-
-### 🌐 Enterprise & Full-Stack Systems `[#00F0FF]`
-*   ⚡ **[Dialog Inventory Management System](https://github.com/SahanDissanayaka/Transformer-Management-System)**
-    *   *Built scalable Java Spring Boot microservices integrated with MongoDB, RabbitMQ asynchronous processing, and Redis caching layers following TMF API standards.*
-*   🔥 **[Dialog Ignite Revamp](https://github.com/SahanDissanayaka/Transformer-Management-System)**
-    *   *Upgraded critical entitlement servers, enhanced system activity logging/tracking systems, and resolved legacy telecom deployment bugs.*
-*   📋 **[Transformer Management System](https://github.com/SahanDissanayaka/Transformer-Management-System)**
-    *   *An interactive AI-based thermal defect inspection ecosystem mapping a Java Spring Boot backend to custom Python YOLOv8 object detection pipelines.*
-*   📍 **[Real-time Bus Tracking System](https://github.com/Dilshan-Nuwantha)**
-    *   *Full-stack platform tracking transit streams via Socket.IO connections and OSRM road-matched routes mapped on responsive Leaflet displays.*
-
-### 🧠 Machine Learning & Computer Vision `[#FF007F]`
-*   🧠 **[LightGlue Implementation](https://github.com/Dilshan-Nuwantha/LightGlue)**
-    *   *Evaluated and optimized deep-learning pipelines for keypoint correspondences and adaptive pruning utilizing Glue Factory structures.*
-*   ✋ **[Hand Motion Prior (HMP) Estimation](https://github.com/Dilshan-Nuwantha/HMP/tree/main)**
-    *   *Leveraged latent video optimization models built on the AMASS dataset to counter occlusions during 3D hand pose reconstructions.*
-*   🤖 **[AI Study Assistant](https://github.com/Dilshan-Nuwantha)**
-    *   *An intelligent educational workspace featuring contextual note searching, automatic summaries, and runtime tracking matrices.*
-*   🎓 **[Poverty Hack Platform](https://github.com/ywchanna2001/Poverty_Hack_Frontend/tree/develop)**
-    *   *Gamified financial literacy app powering custom questionnaires and personalized user progression paths via Google Generative AI integration.*
-
-### 🦾 Robotics & Cyber-Physical Systems `[#39FF14]`
-*   🚀 **[Reconfigurable Stairclimbing Robot (FYP)](https://github.com/Dilshan-Nuwantha)**
-    *   *Designing an advanced indoor mobile robot featuring transformable wheels built on ROS 2 multi-mode locomotion modules.*
-*   🦾 **[4-DOF Robotic Manipulator](https://github.com/Dilshan-Nuwantha/4-DOF_Robot_Arm_Manipulation)**
-    *   *Engineered a precise kinematics pick-and-place system driven via MATLAB matrix mappings and custom Arduino configurations.*
-*   🐭 **[Autonomous Micromouse](https://github.com/SahanDissanayaka/Micro-Mouse-Design)**
-    *   *Built a competitive maze-solving platform utilizing custom PCB fabrics, ToF/IR distance sensors, and Floodfill tracking logic.*
-*   🏆 **[SLRC Autonomous Robot](https://github.com/SahanDissanayaka/Robot-Design-for-SLRC)**
-    *   *Designed a multi-sensor unit tackling line tracking, color identification, and object sorting for the Sri Lankan Robotics Challenge.*
-*   🌍 **[Air & Water Pollution Device](https://github.com/Pasindu-Nimsara-2002/Air-Water-Quality-Measuring-Device)**
-    *   *Constructed an environmental health scanner parsing physical inputs through low-level AVR embedded microcontrollers.*
+# 🌱 Currently Exploring
+- Cloud Computing & Scalable DevOps Systems
+- Multi-Agent AI Frameworks & Generative AI Architectures
+- Advanced ROS2 Locomotion and Perception Control
+- Microservices Architecture Performance Tuning
 
 ---
 
-## ⚡ HIT ME UP
+# 🤝 Let's Collaborate
 
-<p align="left">
-  < a href="mailto:nuwanthadilshan05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nuwanthadilshan05%40gmail.com-FF007F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" />
-  </a>
-  < a href="https://www.linkedin.com/in/dilshan-wickramasingha-2a6282317/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dilshan%20Wickramasingha-00F0FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" />
-  </a>
-</p>
+I am always keen on jumping into complex projects and open-source collaborations relating to:
+* 🌐 Microservices & High-Performance Backends
+* 🤖 Autonomous Navigation & Advanced Robotics Loops
+* 🧠 Production-level ML Pipelines & Computer Vision Tasks
+
+---
+
+# 📫 Connect with Me
+
+📧 **Email:** **nuwanthadilshan05@gmail.com**  
+💼 **LinkedIn:** [dilshan-wickramasingha](https://www.linkedin.com/in/dilshan-wickramasingha-2a6282317/)  
+🌐 **GitHub:** [Dilshan-Nuwantha](https://github.com/Dilshan-Nuwantha)  
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+*"Engineering software and intelligent systems that make a real-world impact."*
+
+</div>
